@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{DFEBF5A7-AA53-4A42-856F-F41C7B631EC8}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestApplication.UiTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApplication.UiTests" expanded="True">
+            <Node name="TestApplication.UiTests" expanded="True">
+              <Node name="Utility" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
